@@ -1,0 +1,3389 @@
+('C:\\Users\\blair\\OneDrive\\Documents\\Python '
+ 'Projects\\AB_tests_stat_tool\\build\\ab_test_stats\\ab_test_stats.pkg',
+ {'BINARY': True,
+  'DATA': True,
+  'EXECUTABLE': True,
+  'EXTENSION': True,
+  'PYMODULE': True,
+  'PYSOURCE': True,
+  'PYZ': False,
+  'SPLASH': True,
+  'SYMLINK': False},
+ [('pyi-contents-directory _internal', '', 'OPTION'),
+  ('PYZ-00.pyz',
+   'C:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\build\\ab_test_stats\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\build\\ab_test_stats\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\build\\ab_test_stats\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\build\\ab_test_stats\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\build\\ab_test_stats\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\build\\ab_test_stats\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgres',
+   'C:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('ab_test_stats',
+   'C:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\ab_test_stats.py',
+   'PYSOURCE'),
+  ('python311.dll', 'C:\\Program Files\\Python311\\python311.dll', 'BINARY'),
+  ('scipy.libs\\libscipy_openblas-5b1ec8b915dfb81d11cebc0788069d2d.dll',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy.libs\\libscipy_openblas-5b1ec8b915dfb81d11cebc0788069d2d.dll',
+   'BINARY'),
+  ('numpy.libs\\libscipy_openblas64_-c16e4918366c6bc1f1cd71e28ca36fc0.dll',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\numpy.libs\\libscipy_openblas64_-c16e4918366c6bc1f1cd71e28ca36fc0.dll',
+   'BINARY'),
+  ('numpy.libs\\msvcp140-d64049c6e3865410a7dda6a7e9f0c575.dll',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\numpy.libs\\msvcp140-d64049c6e3865410a7dda6a7e9f0c575.dll',
+   'BINARY'),
+  ('select.pyd', 'C:\\Program Files\\Python311\\DLLs\\select.pyd', 'EXTENSION'),
+  ('_lzma.pyd', 'C:\\Program Files\\Python311\\DLLs\\_lzma.pyd', 'EXTENSION'),
+  ('_bz2.pyd', 'C:\\Program Files\\Python311\\DLLs\\_bz2.pyd', 'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Program Files\\Python311\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_socket.pyd',
+   'C:\\Program Files\\Python311\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_decimal.pyd',
+   'C:\\Program Files\\Python311\\DLLs\\_decimal.pyd',
+   'EXTENSION'),
+  ('_hashlib.pyd',
+   'C:\\Program Files\\Python311\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_ctypes.pyd',
+   'C:\\Program Files\\Python311\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_ssl.pyd', 'C:\\Program Files\\Python311\\DLLs\\_ssl.pyd', 'EXTENSION'),
+  ('_queue.pyd', 'C:\\Program Files\\Python311\\DLLs\\_queue.pyd', 'EXTENSION'),
+  ('pyexpat.pyd',
+   'C:\\Program Files\\Python311\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_multiprocessing.pyd',
+   'C:\\Program Files\\Python311\\DLLs\\_multiprocessing.pyd',
+   'EXTENSION'),
+  ('numpy\\linalg\\_umath_linalg.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\numpy\\linalg\\_umath_linalg.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_overlapped.pyd',
+   'C:\\Program Files\\Python311\\DLLs\\_overlapped.pyd',
+   'EXTENSION'),
+  ('_asyncio.pyd',
+   'C:\\Program Files\\Python311\\DLLs\\_asyncio.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_umath.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\numpy\\_core\\_multiarray_umath.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\_lib\\_ccallback_c.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\_lib\\_ccallback_c.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\ndimage\\_nd_image.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\ndimage\\_nd_image.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\ndimage\\_ni_label.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\ndimage\\_ni_label.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_ellip_harm_2.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\special\\_ellip_harm_2.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_tools.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_tools.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_reordering.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_reordering.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_matching.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_matching.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_flow.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_flow.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_min_spanning_tree.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_min_spanning_tree.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_traversal.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_traversal.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\csgraph\\_shortest_path.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\sparse\\csgraph\\_shortest_path.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_fblas.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\linalg\\_fblas.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_flapack.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\linalg\\_flapack.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\cython_lapack.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\linalg\\cython_lapack.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\cython_blas.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\linalg\\cython_blas.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_decomp_update.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\linalg\\_decomp_update.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_matfuncs_expm.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\linalg\\_matfuncs_expm.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_matfuncs_sqrtm_triu.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\linalg\\_matfuncs_sqrtm_triu.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_decomp_lu_cython.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\linalg\\_decomp_lu_cython.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\fft\\_pocketfft\\pypocketfft.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\fft\\_pocketfft\\pypocketfft.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\_lib\\_uarray\\_uarray.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\_lib\\_uarray\\_uarray.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_solve_toeplitz.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\linalg\\_solve_toeplitz.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_cythonized_array_utils.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\linalg\\_cythonized_array_utils.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\linalg\\_propack\\_zpropack.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_propack\\_zpropack.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\linalg\\_propack\\_cpropack.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_propack\\_cpropack.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\linalg\\_propack\\_dpropack.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_propack\\_dpropack.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\linalg\\_propack\\_spropack.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_propack\\_spropack.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\linalg\\_eigen\\arpack\\_arpack.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_eigen\\arpack\\_arpack.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\linalg\\_dsolve\\_superlu.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\sparse\\linalg\\_dsolve\\_superlu.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\_csparsetools.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\sparse\\_csparsetools.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\sparse\\_sparsetools.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\sparse\\_sparsetools.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_highs\\_highs_constants.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\optimize\\_highs\\_highs_constants.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_highs\\_highs_wrapper.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\optimize\\_highs\\_highs_wrapper.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_direct.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\optimize\\_direct.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\interpolate\\_rgi_cython.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\interpolate\\_rgi_cython.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\interpolate\\interpnd.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\interpolate\\interpnd.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\interpolate\\_rbfinterp_pythran.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\interpolate\\_rbfinterp_pythran.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\interpolate\\_ppoly.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\interpolate\\_ppoly.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\interpolate\\_bspl.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\interpolate\\_bspl.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\interpolate\\_dfitpack.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\interpolate\\_dfitpack.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\interpolate\\_fitpack.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\interpolate\\_fitpack.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\transform\\_rotation.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\spatial\\transform\\_rotation.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\_distance_pybind.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\spatial\\_distance_pybind.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\_hausdorff.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\spatial\\_hausdorff.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\_distance_wrap.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\spatial\\_distance_wrap.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\_voronoi.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\spatial\\_voronoi.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\_qhull.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\spatial\\_qhull.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\spatial\\_ckdtree.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\spatial\\_ckdtree.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_pava_pybind.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\optimize\\_pava_pybind.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_lsq\\givens_elimination.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\optimize\\_lsq\\givens_elimination.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_lsap.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\optimize\\_lsap.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\linalg\\_interpolative.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\linalg\\_interpolative.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_bglu_dense.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\optimize\\_bglu_dense.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_slsqp.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\optimize\\_slsqp.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_zeros.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\optimize\\_zeros.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_minpack.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\optimize\\_minpack.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_trlib\\_trlib.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\optimize\\_trlib\\_trlib.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_cobyla.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\optimize\\_cobyla.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_moduleTNC.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\optimize\\_moduleTNC.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_lbfgsb.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\optimize\\_lbfgsb.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\optimize\\_group_columns.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\optimize\\_group_columns.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\integrate\\_lsoda.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\integrate\\_lsoda.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\integrate\\_dop.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\integrate\\_dop.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\integrate\\_vode.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\integrate\\_vode.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\integrate\\_quadpack.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\integrate\\_quadpack.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\integrate\\_odepack.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\integrate\\_odepack.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_comb.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\special\\_comb.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_gufuncs.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\special\\_gufuncs.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_specfun.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\special\\_specfun.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_ufuncs.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\special\\_ufuncs.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_special_ufuncs.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\special\\_special_ufuncs.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\_ufuncs_cxx.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\special\\_ufuncs_cxx.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\mtrand.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\numpy\\random\\mtrand.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_sfc64.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\numpy\\random\\_sfc64.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_philox.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\numpy\\random\\_philox.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_pcg64.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\numpy\\random\\_pcg64.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_mt19937.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\numpy\\random\\_mt19937.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\bit_generator.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\numpy\\random\\bit_generator.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_generator.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\numpy\\random\\_generator.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_bounded_integers.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\numpy\\random\\_bounded_integers.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\random\\_common.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\numpy\\random\\_common.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_qmc_cy.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\stats\\_qmc_cy.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_sobol.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\stats\\_sobol.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_unuran\\unuran_wrapper.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\stats\\_unuran\\unuran_wrapper.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_stats_pythran.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\stats\\_stats_pythran.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_rcont\\rcont.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\stats\\_rcont\\rcont.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_mvn.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\stats\\_mvn.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_ansari_swilk_statistics.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\stats\\_ansari_swilk_statistics.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_levy_stable\\levyst.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\stats\\_levy_stable\\levyst.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_biasedurn.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\stats\\_biasedurn.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\stats\\_stats.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\stats\\_stats.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\special\\cython_special.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\special\\cython_special.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\nattype.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\nattype.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\dtypes.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\dtypes.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\interval.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\interval.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\period.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\period.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\parsing.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\parsing.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\properties.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\properties.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\hashtable.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\hashtable.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timestamps.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timestamps.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\np_datetime.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\np_datetime.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\fields.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\fields.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\conversion.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\conversion.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timedeltas.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timedeltas.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\strptime.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\strptime.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslib.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslib.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\tzconversion.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\tzconversion.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\offsets.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\offsets.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\timezones.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\timezones.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\index.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\index.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\window\\indexers.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\window\\indexers.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\window\\aggregations.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\window\\aggregations.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\internals.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\internals.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\groupby.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\groupby.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\arrays.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\arrays.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\algos.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\algos.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\parsers.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\parsers.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_uuid.pyd', 'C:\\Program Files\\Python311\\DLLs\\_uuid.pyd', 'EXTENSION'),
+  ('_sqlite3.pyd',
+   'C:\\Program Files\\Python311\\DLLs\\_sqlite3.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\writers.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\writers.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\json.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\json.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\ops.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\ops.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\missing.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\missing.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\ops_dispatch.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\ops_dispatch.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\lib.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\lib.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\indexing.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\indexing.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\hashing.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\hashing.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\sparse.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\sparse.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\reshape.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\reshape.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\join.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\join.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree.pyd',
+   'C:\\Program Files\\Python311\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\vectorized.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\vectorized.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\pandas_datetime.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\pandas_datetime.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\pandas_parser.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\pandas_parser.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\testing.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\testing.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\ccalendar.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\ccalendar.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\signal\\_peak_finding_utils.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\signal\\_peak_finding_utils.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\signal\\_spectral.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\signal\\_spectral.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\signal\\_sosfilt.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\signal\\_sosfilt.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\fft\\_pocketfft_umath.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\numpy\\fft\\_pocketfft_umath.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\signal\\_spline.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\signal\\_spline.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\signal\\_upfirdn_apply.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\signal\\_upfirdn_apply.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\signal\\_max_len_seq_inner.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\signal\\_max_len_seq_inner.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\signal\\_sigtools.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\signal\\_sigtools.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('statsmodels\\nonparametric\\_smoothers_lowess.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\statsmodels\\nonparametric\\_smoothers_lowess.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('statsmodels\\tsa\\innovations\\_arma_innovations.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\statsmodels\\tsa\\innovations\\_arma_innovations.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('statsmodels\\tsa\\statespace\\_tools.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\statsmodels\\tsa\\statespace\\_tools.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('statsmodels\\tsa\\statespace\\_cfa_simulation_smoother.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\statsmodels\\tsa\\statespace\\_cfa_simulation_smoother.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('statsmodels\\tsa\\statespace\\_simulation_smoother.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\statsmodels\\tsa\\statespace\\_simulation_smoother.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('statsmodels\\tsa\\statespace\\_kalman_smoother.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\statsmodels\\tsa\\statespace\\_kalman_smoother.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('statsmodels\\tsa\\statespace\\_kalman_filter.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\statsmodels\\tsa\\statespace\\_kalman_filter.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('statsmodels\\tsa\\statespace\\_representation.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\statsmodels\\tsa\\statespace\\_representation.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('statsmodels\\tsa\\statespace\\_initialization.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\statsmodels\\tsa\\statespace\\_initialization.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('statsmodels\\tsa\\statespace\\_smoothers\\_univariate_diffuse.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\statsmodels\\tsa\\statespace\\_smoothers\\_univariate_diffuse.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('statsmodels\\tsa\\statespace\\_smoothers\\_univariate.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\statsmodels\\tsa\\statespace\\_smoothers\\_univariate.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('statsmodels\\tsa\\statespace\\_smoothers\\_conventional.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\statsmodels\\tsa\\statespace\\_smoothers\\_conventional.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('statsmodels\\tsa\\statespace\\_smoothers\\_classical.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\statsmodels\\tsa\\statespace\\_smoothers\\_classical.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('statsmodels\\tsa\\statespace\\_smoothers\\_alternative.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\statsmodels\\tsa\\statespace\\_smoothers\\_alternative.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('statsmodels\\tsa\\statespace\\_filters\\_univariate_diffuse.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\statsmodels\\tsa\\statespace\\_filters\\_univariate_diffuse.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('statsmodels\\tsa\\statespace\\_filters\\_univariate.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\statsmodels\\tsa\\statespace\\_filters\\_univariate.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('statsmodels\\tsa\\statespace\\_filters\\_inversions.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\statsmodels\\tsa\\statespace\\_filters\\_inversions.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('statsmodels\\tsa\\statespace\\_filters\\_conventional.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\statsmodels\\tsa\\statespace\\_filters\\_conventional.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('statsmodels\\tsa\\_innovations.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\statsmodels\\tsa\\_innovations.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\_lib\\_fpumode.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\_lib\\_fpumode.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('scipy\\_lib\\messagestream.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\_lib\\messagestream.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('numpy\\_core\\_multiarray_tests.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\numpy\\_core\\_multiarray_tests.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\tslibs\\base.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\tslibs\\base.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\sas.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\sas.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('pandas\\_libs\\byteswap.cp311-win_amd64.pyd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\_libs\\byteswap.cp311-win_amd64.pyd',
+   'EXTENSION'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-20\\bin\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Program Files\\Python311\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-private-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-private-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140_1.dll',
+   'C:\\Program Files\\Python311\\VCRUNTIME140_1.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Program Files\\Python311\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libffi-8.dll',
+   'C:\\Program Files\\Python311\\DLLs\\libffi-8.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Program Files\\Python311\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('scipy\\special\\libsf_error_state.dll',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\scipy\\special\\libsf_error_state.dll',
+   'BINARY'),
+  ('pandas.libs\\msvcp140-0f2ea95580b32bcfc81c235d5751ce78.dll',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas.libs\\msvcp140-0f2ea95580b32bcfc81c235d5751ce78.dll',
+   'BINARY'),
+  ('sqlite3.dll', 'C:\\Program Files\\Python311\\DLLs\\sqlite3.dll', 'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-20\\bin\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-20\\bin\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-20\\bin\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-20\\bin\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-20\\bin\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-20\\bin\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-20\\bin\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Program '
+   'Files\\Java\\jdk-20\\bin\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Program Files\\Java\\jdk-20\\bin\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\build\\ab_test_stats\\base_library.zip',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html_table.tpl',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html_table.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\string.tpl',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\string.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html.tpl',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex_longtable.tpl',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex_longtable.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\html_style.tpl',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\html_style.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex.tpl',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex.tpl',
+   'DATA'),
+  ('pandas\\io\\formats\\templates\\latex_table.tpl',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pandas\\io\\formats\\templates\\latex_table.tpl',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Universal',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Universal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Poland',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Poland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Ponape',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Ponape',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\West',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\West',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Godthab',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Godthab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\BajaNorte',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Canary',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Canary',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Helsinki',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Helsinki',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ouagadougou',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Truk',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Truk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+5',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+5',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aden',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aden',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-14',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-14',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tehran',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tehran',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bangkok',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bangkok',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Aleutian',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Aleutian',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tashkent',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tashkent',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guatemala',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guatemala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+4',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+4',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pohnpei',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Tucuman',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Port_of_Spain',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Port_of_Spain',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Petersburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Stockholm',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Stockholm',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dushanbe',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dushanbe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ceuta',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ceuta',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Hermosillo',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Hermosillo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Anchorage',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Anchorage',
+   'DATA'),
+  ('pytz\\zoneinfo\\HST',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\HST',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Currie',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Currie',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Norfolk',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Norfolk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vaduz',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vaduz',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Oslo',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Oslo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Perth',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Perth',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mauritius',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mauritius',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Andorra',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Andorra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Troll',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Troll',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Maldives',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Maldives',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Kerguelen',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Kerguelen',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tortola',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tortola',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Budapest',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Budapest',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\South',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\South',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bahia_Banderas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Baghdad',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Baghdad',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Thomas',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Thomas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chita',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chita',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Mogadishu',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Mogadishu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Gaza',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Gaza',
+   'DATA'),
+  ('pytz\\zoneinfo\\leapseconds',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\leapseconds',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Famagusta',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Famagusta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Nicosia',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Nicosia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Marquesas',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Marquesas',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Alaska',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Alaska',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Salta',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Menominee',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Menominee',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qostanay',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qostanay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Berlin',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Berlin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tiraspol',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tiraspol',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Bougainville',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Bougainville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Khandyga',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Khandyga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Apia',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Apia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Edmonton',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Edmonton',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Freetown',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Freetown',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Vincennes',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Vostok',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Vostok',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ulan_Bator',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Moncton',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Moncton',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tarawa',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tarawa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Newfoundland',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Newfoundland',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cancun',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cancun',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Whitehorse',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Whitehorse',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ciudad_Juarez',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ciudad_Juarez',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Banjul',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Banjul',
+   'DATA'),
+  ('pytz\\zoneinfo\\CET',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\CET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Porto-Novo',
+   'DATA'),
+  ('pytz\\zoneinfo\\MET',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\MET',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rankin_Inlet',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Detroit',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Detroit',
+   'DATA'),
+  ('pytz\\zoneinfo\\Kwajalein',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Kwajalein',
+   'DATA'),
+  ('pytz\\zoneinfo\\zone1970.tab',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\zone1970.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Skopje',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Skopje',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Kitts',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Kitts',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Jersey',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Jersey',
+   'DATA'),
+  ('pytz\\zoneinfo\\NZ',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\NZ',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Toronto',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Toronto',
+   'DATA'),
+  ('pytz\\zoneinfo\\W-SU',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\W-SU',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Sydney',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Sydney',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Cairo',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Cairo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Lower_Princes',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Lower_Princes',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Zulu',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Zulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Bratislava',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Bratislava',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kampala',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kampala',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Tell_City',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dominica',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dominica',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Yakutat',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Yakutat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Harbin',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Harbin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Madrid',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Madrid',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Podgorica',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Podgorica',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\New_York',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\New_York',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Central',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Central',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bissau',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bissau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Addis_Ababa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Lisbon',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Lisbon',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Recife',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Recife',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Libreville',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Libreville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chongqing',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chongqing',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Niamey',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Niamey',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\Center',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Vancouver',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Vancouver',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\McMurdo',
+   'DATA'),
+  ('pytz\\zoneinfo\\GB-Eire',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\GB-Eire',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Windhoek',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Windhoek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Busingen',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Busingen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Belfast',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Belfast',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bahia',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bahia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-1',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-1',
+   'DATA'),
+  ('pytz\\zoneinfo\\Eire',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Eire',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Singapore',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Singapore',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\East',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\East',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Barthelemy',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Barthelemy',
+   'DATA'),
+  ('pytz\\zoneinfo\\Hongkong',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Hongkong',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Anguilla',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Anguilla',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Ulyanovsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guyana',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guyana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Algiers',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Algiers',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Saipan',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Saipan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kabul',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kabul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Adelaide',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Adelaide',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rosario',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rosario',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Asuncion',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Asuncion',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yakutsk',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yakutsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Gaborone',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Gaborone',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Anadyr',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Anadyr',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tahiti',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tahiti',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guadeloupe',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guadeloupe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fort_Nelson',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fort_Nelson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-2',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-2',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nome',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nome',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Manaus',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Manaus',
+   'DATA'),
+  ('pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Arctic\\Longyearbyen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Minsk',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Minsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Vladivostok',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Vladivostok',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Catamarca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Madeira',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Madeira',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Cordoba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Isle_of_Man',
+   'DATA'),
+  ('pytz\\zoneinfo\\MST7MDT',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\MST7MDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Iceland',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Iceland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Muscat',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Muscat',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tegucigalpa',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tegucigalpa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Sakhalin',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Sakhalin',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Vevay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Samarkand',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Samarkand',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ashgabat',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ashgabat',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Eirunepe',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Eirunepe',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Denver',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Denver',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Dakar',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Dakar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Macao',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Macao',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Monaco',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Monaco',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dubai',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dubai',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cuiaba',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cuiaba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Moscow',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Moscow',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tirane',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tirane',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Maceio',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Maceio',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Atikokan',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Atikokan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Gibraltar',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Gibraltar',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ojinaga',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ojinaga',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Accra',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Accra',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Thimbu',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Thimbu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Sao_Paulo',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Sao_Paulo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Creston',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Creston',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mexico_City',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mexico_City',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\DumontDUrville',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Belize',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Belize',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Indianapolis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\Acre',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\Acre',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Chisinau',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Chisinau',
+   'DATA'),
+  ('pytz\\zoneinfo\\WET',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\WET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Syowa',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Syowa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qyzylorda',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\BajaSur',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\BajaSur',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Seoul',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Seoul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Samara',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Samara',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Bermuda',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Bogota',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Bogota',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Gambier',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Gambier',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Costa_Rica',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Costa_Rica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Brunei',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Brunei',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Samoa',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Samoa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aqtau',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aqtau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Casablanca',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Casablanca',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Guayaquil',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Guayaquil',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Blanc-Sablon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Tasmania',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Tasmania',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mayotte',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mayotte',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-10',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-10',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Pacific',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Pacific',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Blantyre',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Blantyre',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\UTC',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\UTC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Ndjamena',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Ndjamena',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Pontianak',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Pontianak',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Punta_Arenas',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Punta_Arenas',
+   'DATA'),
+  ('pytz\\zoneinfo\\PRC',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\PRC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Hobart',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Hobart',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yekaterinburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Johnston',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Johnston',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Asmara',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Asmara',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Vincent',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Vincent',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Belem',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Belem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Irkutsk',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Irkutsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Noronha',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Noronha',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montserrat',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montserrat',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Mariehamn',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Mariehamn',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Johns',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Johns',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Colombo',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Colombo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Chile\\Continental',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Chile\\Continental',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bangui',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bangui',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Darwin',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Darwin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Douala',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Douala',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Lord_Howe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Palau',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Palau',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Panama',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Panama',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Ensenada',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Ensenada',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Jujuy',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Astrakhan',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Astrakhan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Thule',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Thule',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Yap',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Yap',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Atyrau',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Atyrau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Macau',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Macau',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Resolute',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Resolute',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Brazzaville',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Brazzaville',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Scoresbysund',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Scoresbysund',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cordoba',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cordoba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Mountain',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Mountain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Sao_Tome',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rainy_River',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rainy_River',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Chatham',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Chatham',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kinshasa',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kinshasa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bujumbura',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bujumbura',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ashkhabad',
+   'DATA'),
+  ('pytz\\zoneinfo\\ROC',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\ROC',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Buenos_Aires',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Rome',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Rome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kirov',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kirov',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kentucky\\Monticello',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Volgograd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Volgograd',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Samoa',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Samoa',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Guam',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Guam',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Beirut',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Beirut',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Funafuti',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Funafuti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pago_Pago',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tel_Aviv',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Jujuy',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Jujuy',
+   'DATA'),
+  ('pytz\\zoneinfo\\EET',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\EET',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Reunion',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Reunion',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Conakry',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Conakry',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kaliningrad',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Kigali',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Kigali',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Adak',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Adak',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kralendijk',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kralendijk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+6',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+6',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lagos',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kanton',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kanton',
+   'DATA'),
+  ('pytz\\zoneinfo\\Mexico\\General',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Mexico\\General',
+   'DATA'),
+  ('pytz\\zoneinfo\\zone.tab',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\zone.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Istanbul',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Istanbul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Easter',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Easter',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\South_Pole',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nuuk',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nuuk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\El_Salvador',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\El_Salvador',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\NSW',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\NSW',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Jan_Mayen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Rarotonga',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santo_Domingo',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santo_Domingo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Aqtobe',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Aqtobe',
+   'DATA'),
+  ('pytz\\zoneinfo\\MST',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\MST',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Grand_Turk',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Grand_Turk',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Indiana-Starke',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Indiana-Starke',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Regina',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Regina',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuala_Lumpur',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dawson',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dawson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Monrovia',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Monrovia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zaporozhye',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Victoria',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Victoria',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Martinique',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Martinique',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Michigan',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Michigan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vienna',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vienna',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Simferopol',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Simferopol',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Qatar',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Qatar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\North',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\North',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Danmarkshavn',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Danmarkshavn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hovd',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hovd',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+7',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+7',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-4',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-4',
+   'DATA'),
+  ('pytz\\zoneinfo\\GB',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\GB',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Brisbane',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Brisbane',
+   'DATA'),
+  ('pytz\\zoneinfo\\ROK',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\ROK',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Aruba',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Aruba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\El_Aaiun',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Wallis',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Wallis',
+   'DATA'),
+  ('pytz\\zoneinfo\\iso3166.tab',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\iso3166.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ulaanbaatar',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Malta',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Malta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Faroe',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Faroe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Manila',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Manila',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bishkek',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bishkek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Harare',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Harare',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hebron',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hebron',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vatican',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vatican',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Luanda',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Luanda',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT0',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT0',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\San_Juan',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Los_Angeles',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Los_Angeles',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\San_Luis',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Iqaluit',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Iqaluit',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT0',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\GMT0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Rangoon',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Rangoon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kosrae',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kosrae',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Shanghai',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Shanghai',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Atka',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Atka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ujung_Pandang',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Nouakchott',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Nouakchott',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\South_Georgia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Sarajevo',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Sarajevo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Winnipeg',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Winnipeg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Yukon',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Yukon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Casey',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Casey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Mawson',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Mawson',
+   'DATA'),
+  ('pytz\\zoneinfo\\Jamaica',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Jamaica',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Faeroe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Amman',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Amman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ho_Chi_Minh',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\GMT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+9',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+9',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Porto_Velho',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Porto_Velho',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Goose_Bay',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Goose_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Tallinn',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Tallinn',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Campo_Grande',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Campo_Grande',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jayapura',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jayapura',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Guernsey',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Guernsey',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT+0',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\GMT+0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Universal',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Universal',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Hawaii',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Hawaii',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Virgin',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Virgin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Prague',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Prague',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kyiv',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kyiv',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Malabo',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Malabo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Majuro',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Majuro',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Curacao',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Curacao',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Asmera',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Asmera',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-6',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-6',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Ushuaia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Urumqi',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Urumqi',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Buenos_Aires',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Buenos_Aires',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Boa_Vista',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Boa_Vista',
+   'DATA'),
+  ('pytz\\zoneinfo\\Libya',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Libya',
+   'DATA'),
+  ('pytz\\zoneinfo\\Portugal',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Portugal',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Araguaina',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Araguaina',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dhaka',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dhaka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Wake',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Wake',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lubumbashi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Greenwich',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Greenwich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\West',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\West',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Taipei',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Taipei',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mazatlan',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mazatlan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Efate',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Efate',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Lima',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Lima',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Antigua',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Antigua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Novosibirsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Makassar',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Makassar',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Arizona',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Arizona',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Rio_Gallegos',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Pangnirtung',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Pangnirtung',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Metlakatla',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Metlakatla',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dili',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dili',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Puerto_Rico',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Puerto_Rico',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\Greenwich',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\Greenwich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Guadalcanal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lusaka',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lusaka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-12',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-12',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Fiji',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Fiji',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nipigon',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nipigon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jerusalem',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jerusalem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+12',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+12',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kiritimati',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Porto_Acre',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Porto_Acre',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Knox',
+   'DATA'),
+  ('pytz\\zoneinfo\\Zulu',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Zulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yerevan',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yerevan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Midway',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Midway',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Brussels',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Brussels',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Chihuahua',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Chihuahua',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Fakaofo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Japan',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Japan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-9',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-9',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Copenhagen',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Copenhagen',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\ACT',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\ACT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kamchatka',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kamchatka',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Hong_Kong',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cayenne',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cayenne',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Azores',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Azores',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Saratov',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Saratov',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kashgar',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kashgar',
+   'DATA'),
+  ('pytz\\zoneinfo\\CST6CDT',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\CST6CDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Noumea',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Noumea',
+   'DATA'),
+  ('pytz\\zoneinfo\\UTC',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\UTC',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Melbourne',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Melbourne',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Thunder_Bay',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Thunder_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Amsterdam',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Amsterdam',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Juba',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Juba',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Antananarivo',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Antananarivo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Cocos',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Cocos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-0',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Comoro',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Comoro',
+   'DATA'),
+  ('pytz\\zoneinfo\\Cuba',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Cuba',
+   'DATA'),
+  ('pytz\\zoneinfo\\GMT-0',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\GMT-0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Ust-Nera',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\La_Paz',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\La_Paz',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Managua',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Managua',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cambridge_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Calcutta',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Calcutta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Uzhgorod',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Marengo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\St_Helena',
+   'DATA'),
+  ('pytz\\zoneinfo\\PST8PDT',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\PST8PDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Nassau',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Nassau',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Yellowknife',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Yellowknife',
+   'DATA'),
+  ('pytz\\zoneinfo\\UCT',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\UCT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Mendoza',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Mendoza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Queensland',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Queensland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Jakarta',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Jakarta',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Auckland',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Auckland',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Riga',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Riga',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Pacific',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Pacific',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Paramaribo',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Paramaribo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\London',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\London',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Bucharest',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Bucharest',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Mbabane',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Mbabane',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Atlantic',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Atlantic',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\New_Salem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Dar_es_Salaam',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Boise',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Boise',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Niue',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Niue',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+0',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+0',
+   'DATA'),
+  ('pytz\\zoneinfo\\Factory',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Factory',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+11',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+11',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fort_Wayne',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fort_Wayne',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Maputo',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Maputo',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Coral_Harbour',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Coral_Harbour',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Rothera',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Rothera',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Timbuktu',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Timbuktu',
+   'DATA'),
+  ('pytz\\zoneinfo\\EST5EDT',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\EST5EDT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Glace_Bay',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Glace_Bay',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Louisville',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Louisville',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Yangon',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Yangon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Palmer',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Palmer',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Knox_IN',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Knox_IN',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\North_Dakota\\Beulah',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Reykjavik',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Oral',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Oral',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Matamoros',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Matamoros',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Mountain',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Mountain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Vientiane',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Vientiane',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montreal',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montreal',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Nicosia',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Nicosia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Port-au-Prince',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Port-au-Prince',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-11',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-11',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Baku',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Baku',
+   'DATA'),
+  ('pytz\\zoneinfo\\Israel',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Israel',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Tunis',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Tunis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-7',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-7',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Central',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Central',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Galapagos',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Galapagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tokyo',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tokyo',
+   'DATA'),
+  ('pytz\\zoneinfo\\tzdata.zi',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\tzdata.zi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Saskatchewan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-5',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-5',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Miquelon',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Miquelon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Egypt',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Egypt',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Davis',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Davis',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Grenada',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Grenada',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Karachi',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Karachi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Canberra',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Canberra',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\ComodRivadavia',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Fortaleza',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Fortaleza',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Cape_Verde',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Athens',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Athens',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Phnom_Penh',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Caracas',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Caracas',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Chuuk',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Chuuk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Nairobi',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Nairobi',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-8',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-8',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Krasnoyarsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Juneau',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Juneau',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Damascus',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Damascus',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Maseru',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Maseru',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Belgrade',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Belgrade',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kolkata',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kolkata',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Novokuznetsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Bahrain',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Bahrain',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+10',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+10',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Port_Moresby',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\Mendoza',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\East-Indiana',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\East-Indiana',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Dawson_Creek',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Dawson_Creek',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Pyongyang',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Pyongyang',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Inuvik',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Inuvik',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Phoenix',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Phoenix',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Tongatapu',
+   'DATA'),
+  ('pytz\\zoneinfo\\NZ-CHAT',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\NZ-CHAT',
+   'DATA'),
+  ('pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Antarctica\\Macquarie',
+   'DATA'),
+  ('pytz\\zoneinfo\\zonenow.tab',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\zonenow.tab',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Abidjan',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Abidjan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Vilnius',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Vilnius',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuching',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuching',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Luxembourg',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Luxembourg',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indiana\\Winamac',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Paris',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Paris',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Nauru',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Nauru',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Kwajalein',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Honolulu',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Honolulu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Choibalsan',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Choibalsan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Katmandu',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Katmandu',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Lome',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Lome',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Khartoum',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Khartoum',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Istanbul',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Istanbul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Riyadh',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Riyadh',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Tijuana',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Tijuana',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santa_Isabel',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santa_Isabel',
+   'DATA'),
+  ('pytz\\zoneinfo\\Singapore',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Singapore',
+   'DATA'),
+  ('pytz\\zoneinfo\\Canada\\Eastern',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Canada\\Eastern',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Chungking',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Chungking',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Lindeman',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Lindeman',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+3',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+3',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Pitcairn',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\San_Marino',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\San_Marino',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Dacca',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Dacca',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Ljubljana',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Ljubljana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kuwait',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kuwait',
+   'DATA'),
+  ('pytz\\zoneinfo\\US\\Eastern',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\US\\Eastern',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Chagos',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Chagos',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-3',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-3',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Sofia',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Sofia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Turkey',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Turkey',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Chicago',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Chicago',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+1',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+1',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Warsaw',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Warsaw',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Shiprock',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Shiprock',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Marigot',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Marigot',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Srednekolymsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Almaty',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Almaty',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Cayman',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Cayman',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Barbados',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Barbados',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Halifax',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Halifax',
+   'DATA'),
+  ('pytz\\zoneinfo\\Atlantic\\Stanley',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Atlantic\\Stanley',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Eucla',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Eucla',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Saigon',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Saigon',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Christmas',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Christmas',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Sitka',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Sitka',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Rio_Branco',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Rio_Branco',
+   'DATA'),
+  ('pytz\\zoneinfo\\Iran',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Iran',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Kiev',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Kiev',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zurich',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zurich',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tbilisi',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tbilisi',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\St_Lucia',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\St_Lucia',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Johannesburg',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Johannesburg',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+2',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+2',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Magadan',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Magadan',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Tripoli',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Tripoli',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Barnaul',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Barnaul',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Omsk',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Omsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Argentina\\La_Rioja',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santiago',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santiago',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT-13',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT-13',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\GMT+8',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\GMT+8',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Catamarca',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Catamarca',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Havana',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Havana',
+   'DATA'),
+  ('pytz\\zoneinfo\\Etc\\UCT',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Etc\\UCT',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Santarem',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Santarem',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Dublin',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Dublin',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Tomsk',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Tomsk',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Kentucky\\Louisville',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Jamaica',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Jamaica',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Montevideo',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Montevideo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Thimphu',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Thimphu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Swift_Current',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Swift_Current',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Monterrey',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Monterrey',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\LHI',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\LHI',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Djibouti',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Djibouti',
+   'DATA'),
+  ('pytz\\zoneinfo\\Indian\\Mahe',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Indian\\Mahe',
+   'DATA'),
+  ('pytz\\zoneinfo\\Navajo',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Navajo',
+   'DATA'),
+  ('pytz\\zoneinfo\\Pacific\\Enderbury',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Pacific\\Enderbury',
+   'DATA'),
+  ('pytz\\zoneinfo\\Africa\\Bamako',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Africa\\Bamako',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Broken_Hill',
+   'DATA'),
+  ('pytz\\zoneinfo\\Australia\\Yancowinna',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Australia\\Yancowinna',
+   'DATA'),
+  ('pytz\\zoneinfo\\Europe\\Zagreb',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Europe\\Zagreb',
+   'DATA'),
+  ('pytz\\zoneinfo\\Asia\\Kathmandu',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Asia\\Kathmandu',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Merida',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Merida',
+   'DATA'),
+  ('pytz\\zoneinfo\\America\\Indianapolis',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\America\\Indianapolis',
+   'DATA'),
+  ('pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Brazil\\DeNoronha',
+   'DATA'),
+  ('pytz\\zoneinfo\\EST',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\EST',
+   'DATA'),
+  ('pytz\\zoneinfo\\Chile\\EasterIsland',
+   'c:\\Users\\blair\\OneDrive\\Documents\\Python '
+   'Projects\\AB_tests_stat_tool\\.venv\\Lib\\site-packages\\pytz\\zoneinfo\\Chile\\EasterIsland',
+   'DATA')],
+ 'python311.dll',
+ False,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
