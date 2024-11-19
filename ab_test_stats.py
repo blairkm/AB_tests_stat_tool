@@ -1,6 +1,4 @@
 import pandas as pd
-import numpy as np
-import scipy as sp
 from statsmodels.stats.proportion import proportions_ztest
 from itertools import combinations
 from scipy.stats import chi2_contingency
@@ -48,6 +46,15 @@ class ABTestProportionsTool:
         nobs = group_data.loc[groups, self.total_col].values
 
         stat, p = proportions_ztest(count=count, nobs=nobs)
+
+        if stat > 0:
+            significance = f"Group '{groups[0]}' is significantly greater than '{groups[1]}'"
+        else:
+            significance = f"Group '{groups[1]}' is significantly greater than '{groups[0]}'"
+
+        if p >= self.alpha:
+            significance = "No significant difference between groups"
+
         significance = "significant" if p < self.alpha else "not significant"
         return "Proportions Z-Test", {"statistic": stat, "p_value": p, "significance": significance}
 
